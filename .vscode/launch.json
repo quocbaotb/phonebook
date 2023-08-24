@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-manageContactApplication<contact>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "bao.com.vn.manageContactApplication",
+            "projectName": "contact",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
